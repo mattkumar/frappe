@@ -1,0 +1,5 @@
+dependencies:
+  - name: frappe
+    version: 1.2.4
+    src: htmlwidgets/frappe
+    script: frappe-charts.min.iife.js
